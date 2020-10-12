@@ -1,6 +1,7 @@
 <h1>Algoritmo Hierárquico</h1>
 <ul>
 <li> Implementação do algoritmo hierárquico com abordagem aglomerativa para agrupar consumidores </li>
+<li> O algoritmo usado foi o da biblioteca scikit learn </li>
 <li> O agrupamento foi feito a partir da base de dados Mall_Customers.csv </li>
 <li> O agrupamento dos consumidores foi feito com base em duas variáveis do dataset </li>
   <ul>
